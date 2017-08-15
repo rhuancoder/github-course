@@ -1,5 +1,5 @@
-#Git course
+# Git course
 
-Este é um repositório test
+Este é um repositório tee.
 
 =)
