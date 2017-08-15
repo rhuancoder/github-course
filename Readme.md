@@ -1,5 +1,5 @@
 # Git course
 
-Este é um repositório tee.
+Este é um repositório teste.
 
 =)
